@@ -7,6 +7,11 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
+        <Grid.ColumnDefinitions>
             
+        </Grid.ColumnDefinitions>
+        <Button>
+            간지나는 사용자 버튼 
+        </Button>
     </Grid>
 </UserControl>
