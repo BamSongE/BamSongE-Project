@@ -28,9 +28,7 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-            <Button> </Button>
+            <Button>버튼2</Button>
         </Grid>
-
-        <Button></Button>
     </StackPanel>
 </Window>
