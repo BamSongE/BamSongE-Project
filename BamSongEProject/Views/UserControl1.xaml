@@ -11,7 +11,7 @@
             
         </Grid.ColumnDefinitions>
         <Button Margin="20">
-            때 묻은 사용자 버튼 
+            마진 준 사용자 버튼 
         </Button>
     </Grid>
 </UserControl>
