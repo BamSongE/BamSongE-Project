@@ -10,8 +10,8 @@
         <Grid.ColumnDefinitions>
             
         </Grid.ColumnDefinitions>
-        <Button>
-            간지나는 사용자 버튼 
+        <Button Margin="20">
+            마진 준 사용자 버튼 
         </Button>
     </Grid>
 </UserControl>
