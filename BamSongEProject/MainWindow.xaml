@@ -16,6 +16,9 @@
         <Button>
             눌러요
         </Button>
+        <Label>
+            ahahahahah
+        </Label>
 
         <Grid Width="300px" Height="200px">
             <Grid.ColumnDefinitions>
