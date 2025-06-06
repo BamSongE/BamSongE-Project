@@ -19,6 +19,9 @@
         <Label>
             ahahahahah
         </Label>
+        <CheckBox>
+            배고픔
+        </CheckBox>
 
         <Grid Width="300px" Height="200px">
             <Grid.ColumnDefinitions>
