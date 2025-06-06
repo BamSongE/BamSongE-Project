@@ -10,5 +10,23 @@
         <Label>
             헤더 개발
         </Label>
+        <TextBlock>
+            검색어를 입력하세요
+        </TextBlock>
+        <Button>
+            
+        </Button>
+
+        <Grid Width="300px" Height="200px">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
     </StackPanel>
 </Window>
