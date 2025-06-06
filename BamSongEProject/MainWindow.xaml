@@ -16,14 +16,14 @@
         <Button>
             눌러요
         </Button>
-        <Label>
-            ahahahahah
+        <Label>            
+          dodidododo
         </Label>
         <CheckBox>
             배고픔
         </CheckBox>
 
-        <Grid Width="300px" Height="200px">
+        <Grid Width="500px" Height="200px">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
