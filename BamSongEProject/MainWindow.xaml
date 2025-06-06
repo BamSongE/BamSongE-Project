@@ -14,7 +14,7 @@
             검색어를 입력하세요
         </TextBlock>
         <Button>
-            
+            눌러요
         </Button>
 
         <Grid Width="300px" Height="200px">
@@ -27,6 +27,10 @@
                 <RowDefinition/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
+
+            <Button> </Button>
         </Grid>
+
+        <Button></Button>
     </StackPanel>
 </Window>
